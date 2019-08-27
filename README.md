@@ -7,6 +7,11 @@
 * Unzip the mini-zelda-game-win64 folder
 * Navigate into the unzipped folder, and open miniZeldaGame.exe
 
+# Souce code:
+* Can be viewed within the mini-zelda-game-win64.zip
+* * Contained within 'source' subdirectory
+* * Assets contained within 'data' subdirectory
+
 # Controls to play :
 * Up, down, left, right: move
 * (hold) Spacebar: attack
