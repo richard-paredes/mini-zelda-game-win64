@@ -2,7 +2,7 @@
  Mini game made using Processing, inspired by the LoZ-NES
 
 # How to view demo-app:
-// `NOTE: Only runs on windows 64-bit systems `
+// `NOTE: Intended for 64-bit Windows systems`
 * Clone/Download the repository
 * Unzip the mini-zelda-game-win64 folder
 * Navigate into the unzipped folder, and open miniZeldaGame.exe
